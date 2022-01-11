@@ -1,0 +1,17 @@
+
+
+add public key to github account
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+git clone git@github.com:fotosven/bda_practical.git
+
+git status
+
+git pull
+
+
+git add .
+
+git commit -m 'what i've done'
+
+git push
